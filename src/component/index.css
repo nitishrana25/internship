@@ -1,0 +1,180 @@
+.Menu{
+    font-size: 1.8em;
+}
+
+.Menu ul{
+    text-decoration: none;
+    padding-top: 150px;
+    padding-right: 120px;
+}
+
+.Menu ul li{
+    list-style: none;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+
+.Menu h2{
+    color: black;
+}
+
+
+.profile h1{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.profile h2{
+    padding-top: 30px;
+    padding-bottom: 15px;
+}
+
+.searchstudent{
+    font-size: 1.2em; 
+    padding-left: 20px;
+    padding-right: 30%;
+    padding-bottom: 40px;
+  }
+  .laststudent{
+    margin-left: 50px;
+      font-size: 1.2em; 
+  }
+
+  .profile textarea{
+      background-color: #e4e3e3;
+      padding-top: 30px;
+  }
+  
+  .profile h3{
+      text-align: center;
+      padding-bottom: 10px;
+  }
+  
+  .profile img{
+      position: absolute;
+      right: 30px;
+      border-radius: 90%;
+      width: 10%;
+  }
+
+.profile User{
+    background-image: url(./download.jpg);
+    border-radius: 20px;
+}
+
+.vl {
+    border-left: 4px solid black;
+    height: 150%;
+    position: absolute;
+    right: 10%;
+  }
+
+  .previous{
+    margin-right: 300px;
+    padding-left: 200px;
+    
+}
+
+  .previous h1{
+      text-align: center;
+      padding-top: 30px;
+  }
+
+  .previous h2{
+      text-align: center;
+      padding-bottom: 30px;
+      padding-top: 10px;
+  }
+
+  .row1{
+      font-size: 1.0em;
+      padding-top: 30px;
+      padding-bottom: 60px;
+  }
+
+  .row1 label{
+      margin-right: 20px;
+  }
+
+    
+  .row1 input{
+    margin-right: 20px;
+    background-color: #eeeeee;
+}
+
+.row2{
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+.row2 label{
+   margin-right: 105px;
+}
+
+.row2 input{
+    margin-right: 20px;
+    background-color: #eeeeee;
+}
+
+.row3{
+    padding-bottom: 30px;
+    position: absolute;
+    left: 500px;
+}
+
+.row4{
+    position: absolute;
+    right: 340px;
+}
+
+.row4 input{
+    background-color: #eeeeee;
+}
+
+.row5{
+    padding-top: 60px;
+    padding-bottom: 30px;
+}
+
+.row6 input{
+    margin-right: 100px;
+    margin-left: 50px;
+    background-color: #eeeeee;
+}
+
+.achievements h1{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.achievements h2{
+    text-align: center;
+   padding-top: 10px;
+   padding-bottom: 30px; 
+}
+
+.achievements textarea{
+    background-color: #eeeeee;
+}
+
+
+
+.performance h1{
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-left: 420px;
+    text-align: center;
+}
+
+.performance h2{
+    padding-top: 10px;
+    padding-right: 50px;
+    padding-left: 420px;
+    padding-bottom: 60px;
+}
+
+.label{
+    margin-right: 50px;
+    margin-bottom: 30px;
+    padding-bottom: 30px;
+    padding-left: 80px;
+}
