@@ -9,24 +9,26 @@ const Previous=() => {
       <h1>Student</h1>
       <h2>Previous Schooling</h2>
       <form action="">
-        <Row className="row1">
+        <Row>
           <label><h3>Senior Secondary School</h3></label>
-          <input type="text" placeholder="Name of School" />
+        </Row>
+        <Row>
+        <input type="text" placeholder="Name of School" />
           <input type="number" placeholder="Overall %" />
         </Row>
-        <Row className="row2">
+        <Row>
           <label><h3>Under Graduation</h3></label>
-          <input type="text" placeholder="Name of the College" />
-          <input type="number" placeholder="Aggr. Marks" />
         </Row>
-        <div className="row3">or</div>
-        <div className="row4">
+        <Row>
+        <input type="text" placeholder="Name of the College" />
+          <input type="number" placeholder="Aggr. Marks" />
+          <p>or</p>
           <input type="number" placeholder="Current Marks" />
-        </div>
-        <Row className="row5">
+        </Row>
+        <Row>
           <label><h3>Any Other Experience</h3></label>
         </Row>
-        <Row className="row6">
+        <Row>
           <input type="text" placeholder="+"/>
           <input type="text" placeholder="Marks" />
         </Row>

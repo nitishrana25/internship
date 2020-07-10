@@ -1,5 +1,6 @@
 .Menu{
     font-size: 1.8em;
+    margin-bottom: 250px;
 }
 
 .Menu ul{
@@ -70,75 +71,31 @@
   }
 
   .previous{
-    margin-right: 300px;
-    padding-left: 200px;
-    
+    margin-right: 400px;
 }
 
-  .previous h1{
-      text-align: center;
-      padding-top: 30px;
-  }
-
-  .previous h2{
-      text-align: center;
-      padding-bottom: 30px;
-      padding-top: 10px;
-  }
-
-  .row1{
-      font-size: 1.0em;
-      padding-top: 30px;
-      padding-bottom: 60px;
-  }
-
-  .row1 label{
-      margin-right: 20px;
-  }
-
-    
-  .row1 input{
-    margin-right: 20px;
-    background-color: #eeeeee;
-}
-
-.row2{
+.previous h1{
+    text-align: center;
     padding-top: 30px;
-    padding-bottom: 60px;
-}
-.row2 label{
-   margin-right: 105px;
 }
 
-.row2 input{
-    margin-right: 20px;
-    background-color: #eeeeee;
+.previous h2{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 40px;
 }
 
-.row3{
-    padding-bottom: 30px;
-    position: absolute;
-    left: 500px;
-}
-
-.row4{
-    position: absolute;
-    right: 340px;
-}
-
-.row4 input{
-    background-color: #eeeeee;
-}
-
-.row5{
+.previous h3{
     padding-top: 60px;
-    padding-bottom: 30px;
 }
 
-.row6 input{
-    margin-right: 100px;
-    margin-left: 50px;
-    background-color: #eeeeee;
+.previous input{
+margin-right: 20px;
+background-color: #eeeeee;
+}
+
+.previous p{
+    margin-right: 20px;
 }
 
 .achievements h1{
